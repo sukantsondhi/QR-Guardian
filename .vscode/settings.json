@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f46a463d-a63e-4006-881b-d54114ca004d/resourceGroups/QR-Guardian/providers/Microsoft.Web/sites/QR-Guardian",
+    "appService.deploySubpath": "."
+}
